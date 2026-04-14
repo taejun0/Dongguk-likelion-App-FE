@@ -2,6 +2,9 @@
 
 > 동국대학교 멋쟁이사자처럼(동멋) 전용 앱의 프론트엔드 저장소입니다.
 
+## 스토리북 배포 사이트
+> https://dongguk-likelion-app-fe.vercel.app/
+
 ---
 
 ## 🚀 Overview
